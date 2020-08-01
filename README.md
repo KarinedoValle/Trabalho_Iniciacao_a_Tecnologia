@@ -1,5 +1,5 @@
 # Trabalho_Iniciacao_a_Tecnologia
-Trabalho final da matéria de nivelamento na Residência de Software.
+Trabalho final da matéria de nivelamento na [Residência de Software](http://serratec.org/residencia-de-software/).
 
 
 1.	Leia dois valores e efetue a divisão do primeiro pelo segundo. O segundo valor não pode ser ZERO ou negativo, caso isso ocorra você deve informar ao usuário que o segundo número deve ser maior do que ZERO e solicitar um novo valor. Deverá imprimir o resultado. Ao final deve perguntar se deseja calcular outra divisão e caso sua resposta seja positiva limpe a tela e solicite novos valores.
